@@ -40,8 +40,9 @@ Self-reflection is one document for the whole team (with one subsection for each
 
 Make sure that the self-reflection contains:
 
-- [ ] 250 words maximum per student
-- [ ] Self-reflection about students' journey in the subject and brief discussion on what & how they addressed received feedback after usability tests with clients.
+- [ ] 300-400 words maximum per student
+- [ ] Self-reflection: personal reflections on professional and technical skills development.
+- [ ] Each student to submit self-reflection to Canvas (and only). No need to add this to Confluence or GitHub.
 
 
 ## Additional Information
