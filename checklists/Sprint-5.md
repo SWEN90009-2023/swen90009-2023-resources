@@ -2,12 +2,6 @@
 This checklist helps you double check your work for Sprint 5.
 
 
-## Release notes
-Make sure that:
-
-- [ ] Students created a clear and complete document explaining the client how to access developed resources, how they are organised on Github, and also provided details on how to run their project (digital prototypes).
-
-
 ## Release TAG
 Make sure that:
 
@@ -36,7 +30,7 @@ Make sure that:
 
 ## Self-reflection 
 
-Self-reflection is one document for the whole team (with one subsection for each student and a final one for the whole team explaining how they addressed received feedback in the project).
+Self-reflection is INDIVIDUAL. One submission per student (no team submission)
 
 Make sure that the self-reflection contains:
 
